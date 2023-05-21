@@ -1,6 +1,5 @@
 
 
-
 ```
 ________      __    __           __                       ________               
 \_    _/ ___ |  | _|  | __ _____/  |_ __ __  ________ __  \______ \   _______  __
@@ -9,9 +8,11 @@ ________      __    __           __                       ________
   |__| \___  >__|_ \__|_ \\___  >__| |____//____  >____/  /_______  /\___  >\_/  
            \/     \/    \/    \/                \/                \/     \/      
 ```
+<br>
+
+# Hi everyone Im Victor a Junior Web Developer
 
 
-## Hi everyone m Victor a Junior Developer currently working on Web Development 
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
