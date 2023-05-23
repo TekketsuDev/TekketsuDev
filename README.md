@@ -10,12 +10,12 @@ ________      __    __           __                       ________
 ```
 <br>
 
-# Hi everyone 🐈🎮📱💻🗂️📂📁👨‍💻🖱️☁️📟
+# Hi everyone 
 
 <p>· 👾🤖🐱‍👤🐱‍🏍👩‍🎓 &nbsp; Hi there! I'm Am Victor a junior self-taught web Developer focus on HTML, CSS and Javascript </p>
 <p>· 💻 &nbsp;I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.</p>
 <p>· ⚙️ &nbsp;My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, ... </p>
-<p>· 📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link">CV</a> for more information about my experience and skills.</p>
+<p>· 📄 &nbsp;Please check out my <a class="cv" href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link">CV</a> for more information about my experience and skills.</p>
 <p>· 🤝 &nbsp;I'm always open to work meanwhile I study Computer Science in UOC (Universitat Oberta de Catalunya)</p>
 <p> ·🎨 &nbsp;For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas that comes from the designer. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills</p>
 
