@@ -26,6 +26,8 @@ ________      __    __           __                       ________
 
 <p style="background-color: #f1f1f1;">Este es un párrafo con fondo gris claro.</p>
 
+<span style="color: red;">[Enlace rojo](https://www.example.com)</span>
+
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
