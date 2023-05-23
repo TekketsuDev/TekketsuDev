@@ -12,7 +12,7 @@ ________      __    __           __                       ________
 
 # Hi everyone 
 
-<p>· 👾🤖🐱‍👤🐱‍🏍👩‍🎓 &nbsp; Hi there! I'm Am Victor a junior self-taught web Developer focus on HTML, CSS and Javascript </p>
+<p>· 👾  &nbsp; Hi there! I'm Am Victor a junior self-taught web Developer focus on HTML, CSS and Javascript </p>
 <p>· 💻 &nbsp;I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.</p>
 <p>· ⚙️ &nbsp;My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, ... </p>
 <p>· 📄 &nbsp;Please check out my <a class="cv" href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link">CV</a> for more information about my experience and skills.</p>
@@ -82,6 +82,7 @@ I expent the last 3 years working on developing my skillset as a developer after
 </table>
 
 <br>
+
 <style>
     svg {
         height: 70px;
@@ -108,12 +109,12 @@ I expent the last 3 years working on developing my skillset as a developer after
     .language-tools {
         margin: 5px 20px;
     }
+
 table {
 width: 800px;
 border-collapse: collapse;
 overflow: hidden;
 box-shadow: 0 0 20px rgba(0,0,0,0.1);
-b
 }
 th,
 td {
