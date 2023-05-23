@@ -21,11 +21,16 @@ ________      __    __           __                       ________
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
+
+<br>
+
+<br>
+
 ## ${\color{#C6538C}Teck\space Stack}$
 I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
 
 
-| $${\color{#C6538C}Project\space Field}$$ | $${\color{#C6538C}Tools\space I \space use\space}$$ |
+| ${\color{#C6538C}Project\space Field}$ | ${\color{#C6538C}Tools\space I \space use\space}$ |
 |:---------------:|:-------------:|
 | Web Devolment   | <img src="./img/icon-figma.png" alt="figma"><img src="./img/icon-html5.png" alt="html5"/>  <img src="./img/icon-sass.png" alt="sass"/>  <img alt="nodejs" src="./img/icon-nodejs.png"/>  <img src="./img/icon-gulp.png" alt="gulp"/>  <img src="./img/icon-javascript.png" alt="javascript"/>|
 | Software Development |<img alt="cplusplus" src="./img/icon-cplusplus.png">  <img alt="python" src="./img/icon-python.png"> |
@@ -36,9 +41,10 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 
 <br>
 
+<br>
+
 ## ${\color{#C6538C}Can\space Find \space me \space here}$
 
-<br>
 
 | $${\color{#C6538C}Platform}$$ | $${\color{#C6538C}Link}$$|
 | :-----------: | :-----------: |
@@ -48,3 +54,4 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 | <img src="./img/icon-codepen.png"> | https://codepen.io/tekketsudev |
 | <img src="./img/icon-github.png"> | https://github.com/TekketsuDev |
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekketsudev&show_icons=true&theme=radical)
