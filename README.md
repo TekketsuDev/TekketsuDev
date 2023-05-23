@@ -8,7 +8,7 @@ ________      __    __           __                       ________
 ```
 <br>
 
-# $${\color{#C6538C}Welcome \space to \space my \space repository \space 🐸}$$ 
+# $${\color{#C6538C}Welcome \space to \space my \space repository \space}$$
 
 <p>· 👾  &nbsp; Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript </p>
 <p>· 💻 &nbsp; I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.</p>
