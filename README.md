@@ -1,5 +1,3 @@
-
-<span style="color: red;"> asdf </span>
 ```
 ________      __    __           __                       ________               
 \_    _/ ___ |  | _|  | __ _____/  |_ __ __  ________ __  \______ \   _______  __
@@ -22,27 +20,31 @@ ________      __    __           __                       ________
 
 <br>
 
-<b>Este texto está en negrita.</b>
-
-<p style="background-color: #f1f1f1;">Este es un párrafo con fondo gris claro.</p>
-
-<span style="color: red;">[Enlace rojo](https://www.example.com)</span>
-
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
 ## Teck Stack
 I expent the last 3 years working on developing my skillset as a developer after trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
+
+
+| Project Field  | Tools I use |
+|:---------------:|:-------------:|
+| Web Devolment   | <img src="./img/icon-figma.png" alt="figma"><img src="./img/icon-html5.png" alt="html5"/>  <img src="./img/icon-sass.png" alt="sass"/>  <img alt="nodejs" src="./img/icon-nodejs.png"/>  <img src="./img/icon-gulp.png" alt="gulp"/>  <img src="./img/icon-javascript.png" alt="javascript"/>|
+| Software Development |<img alt="cplusplus" src="./img/icon-cplusplus.png">  <img alt="python" src="./img/icon-python.png"> |
+| Cloud | <img src="./img/icon-azure.png"> |
+| Scripting | <img src="./img/icon-bash.png"> |
+|Videosgames|<img src="./img/icon-unity.png"/>|
+|General Use| <img alt="npm" src="./img/icon-npm.png">  <img alt="git" src="./img/icon-git.png">  <img alt="obsidian" src="./img/icon-obsidian.png">|
 <table>
     <thead>
         <tr>
             <th>Project Field</th>
-            <th>Tools I use</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Web Devolment</td>
+            <td></td>
             <td>  
             <img src="./img/icon-figma.png" alt="figma">
             <img src="./img/icon-html5.png" alt="html5"/>
@@ -55,8 +57,8 @@ I expent the last 3 years working on developing my skillset as a developer after
         <tr>
             <td>Software Development</td>
             <td>
-            <img src="./img/icon-cplusplus.png">
-            <img src="./img/icon-python.png">
+            <img alt="cplusplus" src="./img/icon-cplusplus.png">
+            <img alt="python" src="./img/icon-python.png">
             </td>
         </tr>
         <tr>
