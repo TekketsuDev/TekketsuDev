@@ -11,13 +11,12 @@ ________      __    __           __                       ________
 
 # Hi everyone 
 
-<p>· 👾  &nbsp; Hi there! I'm Am Victor a junior self-taught web Developer focus on HTML, CSS and Javascript </p>
-<p>· 💻 &nbsp;I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.</p>
-<p>· ⚙️ &nbsp;My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, ... </p>
-<p>· 📄 &nbsp;Please check out my CV $${\color{#563D7C}https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link}$$</a> for more information about my experience and skills.</p>
-<p>· 🤝 &nbsp;I'm always open to work meanwhile I study Computer Science in UOC (Universitat Oberta de Catalunya)</p>
-<p> ·🎨 &nbsp;For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas that comes from the designer. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills</p>
-
+<p>· 👾  &nbsp; Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript </p>
+<p>· 💻 &nbsp; I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.</p>
+<p>· ⚙️ &nbsp; My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, IA projects, Software Development ... </p>
+<p>· 📄 &nbsp; Please check out my <a href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link"> CV/Resume </a> for more information about my experience and skills.</p>
+<p>·🎨 &nbsp; For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills</p>
+<p>· 🤝 &nbsp; I'm always open to work whereas I can combine it with my  Computer Science degree at UOC (Universitat Oberta de Catalunya Online)</p>
 <br>
 
 
@@ -40,11 +39,11 @@ I expent the last 3 years working on developing my skillset as a developer after
 
 ## All my Links
 
-| $${\color{#C6538C}Platform\space}$$ | $${\color{#C6538C}Link\space}$$|
+| $${\color{#C6538C}Platform}$$ | $${\color{#C6538C}Link}$$|
 | :-----------: | :-----------: |
-| <img src="./img/icon-portofolio.png"> | https://tekketsudev.com |
-| <img src="./img/icon-linkedin.png"> | https://linkedin.com/in/víctor-jamet-soler |
-| <img src="./img/icon-figma.png"> | https://www.figma.com/@TekketsuDev |
-| <img src="./img/icon-codepen.png"> | https://codepen.io/tekketsudev |
-| <img src="./img/icon-github.png"> | https://github.com/TekketsuDev |
+| <img src="./img/icon-portofolio.png"> | $${\color{#DDDDDD}https://tekketsudev.com}$$ |
+| <img src="./img/icon-linkedin.png"> | $${\color{#DDDDDD}https://linkedin.com/in/víctor-jamet-soler}$$ |
+| <img src="./img/icon-figma.png"> | $${\color{#DDDDDD}https://www.figma.com/@TekketsuDev}$$ |
+| <img src="./img/icon-codepen.png"> | $${\color{#DDDDDD}https://codepen.io/tekketsudev}$$ |
+| <img src="./img/icon-github.png"> | $${\color{#DDDDDD}https://github.com/TekketsuDev}$$ |
 
