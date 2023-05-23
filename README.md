@@ -8,7 +8,7 @@ ________      __    __           __                       ________
 ```
 <br>
 
-# $${\color{#C6538C}Welcome \space to \space my \space repository \space (づ｡◕‿‿◕｡)づ}$$
+# ${\color{#C6538C}Welcome \space to \space my \space repository \space (づ｡◕‿‿◕｡)づ}$
 
 <p>· 👾  &nbsp; Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript </p>
 <p>· 💻 &nbsp; I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.</p>
@@ -21,7 +21,7 @@ ________      __    __           __                       ________
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
-## Teck Stack
+## ${\color{#C6538C}Teck\space Stack}$
 I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
 
 
@@ -36,7 +36,7 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 
 <br>
 
-## All my Links
+## ${\color{#C6538C}Can\space Find \space me \space here}$
 
 <br>
 
