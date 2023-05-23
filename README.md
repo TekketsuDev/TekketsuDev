@@ -13,7 +13,7 @@ ________      __    __           __                       ________
 # Hi everyone 🐈🎮📱💻🗂️📂📁👨‍💻🖱️☁️📟
 
 <p>· 👾🤖🐱‍👤🐱‍🏍👩‍🎓 &nbsp; Hi there! I'm Am Victor a junior self-taught web Developer focus on HTML, CSS and Javascript </p>
-<p>· 💻 &nbsp;I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advance libraries in the future.</p>
+<p>· 💻 &nbsp;I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.</p>
 <p>· ⚙️ &nbsp;My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, ... </p>
 <p>· 📄 &nbsp;Please check out my <a href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link">CV</a> for more information about my experience and skills.</p>
 <p>· 🤝 &nbsp;I'm always open to work meanwhile I study Computer Science in UOC (Universitat Oberta de Catalunya)</p>
@@ -25,7 +25,7 @@ ________      __    __           __                       ________
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
 ## Teck Stack
-I expent the last 3 years working on developing my skillset as a developer after trying lots of configurations API's, programming languages I bluid a decent teck Stack to work with.
+I expent the last 3 years working on developing my skillset as a developer after trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
 <table>
     <thead>
         <tr>
@@ -37,21 +37,29 @@ I expent the last 3 years working on developing my skillset as a developer after
         <tr>
             <td>Web Devolment</td>
             <td>  
-            <img class="language-tools" src="./img/icon-figma.png">
-            <img class="language-tools" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-            <img class="language-tools" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-            <img class="language-tools" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-            <img class="language-tools" src="./img/icon-gulp.png" alt="gulp" width="40" height="40"/>
-            <img class="language-tools" src="./img/icon-javascript.png" alt="javascript" width="40" height="40"/>
+            <img src="./img/icon-figma.png" alt="figma">
+            <img src="./img/icon-html5.png" alt="html5"/>
+            <img src="./img/icon-sass.png" alt="sass"/>
+            <img alt="nodejs" src="./img/icon-nodejs.png"/>
+            <img src="./img/icon-gulp.png" alt="gulp"    />
+            <img src="./img/icon-javascript.png" alt="javascript"/>
              </td>
         </tr>
         <tr>
+            <td>Software Development</td>
+            <td>
+            <img src="./img/icon-cplusplus.png">
+            <img src="./img/icon-python.png">
+            </td>
+        </tr>
+        <tr>
             <td>Scripting</td>
-            <td><img src="./img/icon-bash.png"></td>
+            <td><img src="./img/icon-bash.png">
+            </td>
         </tr>
         <tr>
             <td>IA Projects</td>
-            <td></td>
+            <td> <img src="./img/icon-python.png"></td>
         </tr>
         <tr>
             <td>Cloud</td>
@@ -65,7 +73,9 @@ I expent the last 3 years working on developing my skillset as a developer after
         <tr>
             <td>General Use</td>
             <td>
-            <img src="./img/icon-npm.png">
+            <img alt="npm" src="./img/icon-npm.png"> 
+            <img alt="git" src="./img/icon-git.png">
+            <img alt="obsidian" src="./img/icon-obsidian.png">
             </td>
         </tr>
     </tbody>
@@ -135,6 +145,10 @@ thead th{
     </thead>
     <tbody>
         <tr>
+            <tr>
+            <td><span style="font-weight: 700; color: #C6538C;">Personal Portofolio </span></td>
+            <td><a>https://</a></td>
+        </tr>
             <td><img src="./img/icon-linkedin.png"></td>
             <td> <a> https://linkedin.com/in/víctor-jamet-soler </a>  </td>
         </tr>
@@ -147,12 +161,8 @@ thead th{
             <td><a>https://codepen.io/tekketsudev</a></td>
         </tr>
         <tr>
-            <td><img src="./img/icon-codepen.png"></td>
-            <td><a>https://</a></td>
-        </tr>
-        <tr>
-            <td><img src="./img/icon-codepen.png"></td>
-            <td><a>https://</a></td>
+            <td><img src="./img/icon-github.png"></td>
+            <td><a>https://github.com/TekketsuDev</a></td>
         </tr>
     </tbody>
 </table>
