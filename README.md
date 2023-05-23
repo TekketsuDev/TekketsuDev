@@ -36,10 +36,12 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 |Videosgames|<img src="./img/icon-unity.png"/>|
 |General Use| <img alt="npm" src="./img/icon-npm.png">  <img alt="git" src="./img/icon-git.png">  <img alt="obsidian" src="./img/icon-obsidian.png">|
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
+<br>
+
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)]
 
 <br>
-<!-- 
+
 ## ${\color{#C6538C}Can\space Find \space me \space here}$
 
 | $${\color{#C6538C}Platform}$$ | $${\color{#C6538C}Link}$$|
@@ -48,4 +50,4 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 | <img src="./img/icon-linkedin.png"> | https://linkedin.com/in/víctor-jamet-soler |
 | <img src="./img/icon-figma.png"> | https://www.figma.com/@TekketsuDev |
 | <img src="./img/icon-codepen.png"> | https://codepen.io/tekketsudev |
-| <img src="./img/icon-github.png"> | https://github.com/TekketsuDev | -->
+| <img src="./img/icon-github.png"> | https://github.com/TekketsuDev |
