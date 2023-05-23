@@ -16,8 +16,8 @@ ________      __    __           __                       ________
 <p>· 📄 &nbsp; Please check out my <a href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link"> CV/Resume </a> for more information about my experience and skills.</p>
 <p>· 🎨 &nbsp; For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills</p>
 <p>· 💼 &nbsp; I'm always open to work whereas I can combine it with my  Computer Science degree at UOC (Universitat Oberta de Catalunya Online)</p>
-<br>
 
+<br>
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
