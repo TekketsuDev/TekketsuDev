@@ -22,6 +22,9 @@ ________      __    __           __                       ________
 
 <br>
 
+<b>Este texto está en negrita.</b>
+
+<p style="background-color: #f1f1f1;">Este es un párrafo con fondo gris claro.</p>
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
