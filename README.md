@@ -27,7 +27,7 @@ ________      __    __           __                       ________
 I expent the last 3 years working on developing my skillset as a developer after trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
 
 
-| Project Field  | Tools I use |
+| $${\color{#C6538C}Project Field\space}$$ | $${\color{#C6538C}Tools I use\space}$$ |
 |:---------------:|:-------------:|
 | Web Devolment   | <img src="./img/icon-figma.png" alt="figma"><img src="./img/icon-html5.png" alt="html5"/>  <img src="./img/icon-sass.png" alt="sass"/>  <img alt="nodejs" src="./img/icon-nodejs.png"/>  <img src="./img/icon-gulp.png" alt="gulp"/>  <img src="./img/icon-javascript.png" alt="javascript"/>|
 | Software Development |<img alt="cplusplus" src="./img/icon-cplusplus.png">  <img alt="python" src="./img/icon-python.png"> |
@@ -35,143 +35,16 @@ I expent the last 3 years working on developing my skillset as a developer after
 | Scripting | <img src="./img/icon-bash.png"> |
 |Videosgames|<img src="./img/icon-unity.png"/>|
 |General Use| <img alt="npm" src="./img/icon-npm.png">  <img alt="git" src="./img/icon-git.png">  <img alt="obsidian" src="./img/icon-obsidian.png">|
-<table>
-    <thead>
-        <tr>
-            <th>Project Field</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td></td>
-            <td>  
-            <img src="./img/icon-figma.png" alt="figma">
-            <img src="./img/icon-html5.png" alt="html5"/>
-            <img src="./img/icon-sass.png" alt="sass"/>
-            <img alt="nodejs" src="./img/icon-nodejs.png"/>
-            <img src="./img/icon-gulp.png" alt="gulp"    />
-            <img src="./img/icon-javascript.png" alt="javascript"/>
-             </td>
-        </tr>
-        <tr>
-            <td>Software Development</td>
-            <td>
-            <img alt="cplusplus" src="./img/icon-cplusplus.png">
-            <img alt="python" src="./img/icon-python.png">
-            </td>
-        </tr>
-        <tr>
-            <td>Scripting</td>
-            <td><img src="./img/icon-bash.png">
-            </td>
-        </tr>
-        <tr>
-            <td>IA Projects</td>
-            <td> <img src="./img/icon-python.png"></td>
-        </tr>
-        <tr>
-            <td>Cloud</td>
-            <td><img src="./img/icon-azure.png"></td>
-        </tr>
-        <tr>
-            <td>Videogames</td>
-            <td><img src="./img/icon-unity.png"/>
-            </td>
-        </tr>
-        <tr>
-            <td>General Use</td>
-            <td>
-            <img alt="npm" src="./img/icon-npm.png"> 
-            <img alt="git" src="./img/icon-git.png">
-            <img alt="obsidian" src="./img/icon-obsidian.png">
-            </td>
-        </tr>
-    </tbody>
-</table>
 
 <br>
-
-<style>
-    svg {
-        height: 70px;
-        width: 70px;
-    }
-    .cv {
-        color: #C6538C;
-    }
-    a {
-        text-decoration: none;
-        color: #C6538C;
-        font-weight: 700;
-    }
-    td {
-        color: #C6538C;
-    }
-    a:visited, a:focus, a:hover {
-        text-decoration: none;
-        color: #563D7C;
-    }
-    p {
-        color: #DDDDDD;
-    }
-    .language-tools {
-        margin: 5px 20px;
-    }
-
-table {
-width: 800px;
-border-collapse: collapse;
-overflow: hidden;
-box-shadow: 0 0 20px rgba(0,0,0,0.1);
-}
-th,
-td {
-padding: 15px;
-background-color: #dddd;
-color: #fff;
-cursor: pointer;
-}
-th {
-text-align: left;
-}
-thead th{
-    background-color: rgba(86, 61, 124, 0.64)
-}
-}
-</style>
-
 
 ## All my Links
-<br>
-<table>
-    <thead>
-        <tr>
-            <th>Platform</th>
-            <th>Link</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <tr>
-            <td><span style="font-weight: 700; color: #C6538C;">Personal Portofolio </span></td>
-            <td><a>https://</a></td>
-        </tr>
-            <td><img src="./img/icon-linkedin.png"></td>
-            <td> <a> https://linkedin.com/in/víctor-jamet-soler </a>  </td>
-        </tr>
-        <tr>
-            <td><img src="./img/icon-figma.png"></td>
-            <td> <a>https://www.figma.com/@TekketsuDev</a></td>
-        </tr>
-        <tr>
-            <td> <img src="./img/icon-codepen.png"></td>
-            <td><a>https://codepen.io/tekketsudev</a></td>
-        </tr>
-        <tr>
-            <td><img src="./img/icon-github.png"></td>
-            <td><a>https://github.com/TekketsuDev</a></td>
-        </tr>
-    </tbody>
-</table>
+
+| $${\color{#C6538C}Platform\space}$$ | $${\color{#C6538C}Link\space}$$|
+| :-----------: | :-----------: |
+| <img src="./img/icon-portofolio.png"> | https://tekketsudev.com |
+| <img src="./img/icon-linkedin.png"> | https://linkedin.com/in/víctor-jamet-soler |
+| <img src="./img/icon-figma.png"> | https://www.figma.com/@TekketsuDev |
+| <img src="./img/icon-codepen.png"> | https://codepen.io/tekketsudev |
+| <img src="./img/icon-github.png"> | https://github.com/TekketsuDev |
 
