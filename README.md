@@ -10,25 +10,22 @@ ________      __    __           __                       ________
 
 # ${\color{#C6538C}Welcome \space to \space my \space repository \space (づ｡◕‿‿◕｡)づ}$
 
-<p>· 👾  &nbsp; Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript </p>
-<p>· 💻 &nbsp; I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.</p>
-<p>· ⚙️ &nbsp; My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, IA projects, Software Development ... </p>
-<p>· 📄 &nbsp; Please check out my <a href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link"> CV/Resume </a> for more information about my experience and skills.</p>
-<p>· 🎨 &nbsp; For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills</p>
-<p>· 💼 &nbsp; I'm always open to work whereas I can combine it with my  Computer Science degree at UOC (Universitat Oberta de Catalunya Online)</p>
+👾 - Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript.
 
-<br>
+💻 - I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.
 
+⚙️ - My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, IA projects, Software Development ...
 
+📄 - Please check out my <a href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link"> CV/Resume </a> for more information about my experience and skills.  
 
+🎨 - For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills. 
 
-<br>
+💼 I'm always open to work whereas I can combine it with my  Computer Science degree at UOC (Universitat Oberta de Catalunya Online)
 
 <br>
 
 ## ${\color{#C6538C}Teck\space Stack}$
-I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
-
+<!-- I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
 
 | ${\color{#C6538C}Project\space Field}$ | ${\color{#C6538C}Tools\space I \space use\space}$ |
 |:---------------:|:-------------:|
@@ -40,13 +37,12 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 |General Use| <img alt="npm" src="./img/icon-npm.png">  <img alt="git" src="./img/icon-git.png">  <img alt="obsidian" src="./img/icon-obsidian.png">|
 
 <br>
-
+ -->
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
 <br>
 
 ## ${\color{#C6538C}Can\space Find \space me \space here}$
-
 
 | $${\color{#C6538C}Platform}$$ | $${\color{#C6538C}Link}$$|
 | :-----------: | :-----------: |
@@ -55,17 +51,3 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 | <img src="./img/icon-figma.png"> | https://www.figma.com/@TekketsuDev |
 | <img src="./img/icon-codepen.png"> | https://codepen.io/tekketsudev |
 | <img src="./img/icon-github.png"> | https://github.com/TekketsuDev |
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tekketsudev&show_icons=true&theme=radical)
-
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ccbb9ac4-cc28-451c-ac68-33976d60f572/917fefe0-7483-4ed8-a2aa-d2f5f07d094c.png" /></a>
-
-![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
