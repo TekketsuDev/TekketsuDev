@@ -22,7 +22,7 @@ ________      __    __           __                       ________
 
 🎨 - For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills. 
 
-💼 I'm always open to work whereas I can combine it with my  Computer Science degree at UOC (Universitat Oberta de Catalunya Online)
+💼 I'm always open to work whereas I can combine it with my Computer Science degree at UOC (Universitat Oberta de Catalunya Online)
 
 <br/>
 
@@ -39,15 +39,12 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 | Videosgames |<img src="./img/icon-unity.png"> |
 | General Use | <img alt="npm" src="./img/icon-npm.png"> <img alt="git" src="./img/icon-git.png"> <img alt="obsidian" src="./img/icon-obsidian.png"> |
 
-  
-
-
 <div>
 </div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tekketsudev&theme=dracula&show_icons=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
