@@ -8,9 +8,9 @@ ________      __    __           __                       ________
 ```
 
 
-<!---
-# ${\color{#C6538C}Welcome \space to \space my \space repository \space (づ｡◕‿‿◕｡)づ}$
---->
+
+<h1> Welcome  to my repository (づ｡◕‿‿◕｡)づ </h1>
+
 👾 - Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript.
 
 💻 - I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.
@@ -24,6 +24,8 @@ ________      __    __           __                       ________
 💼 I'm always open to work whereas I can combine it with my Computer Science degree at UOC (Universitat Oberta de Catalunya Online)
 
 <br/>
+
+<h2> Teck Stack </h2>
 <!---
  $${\color{#C6538C}Teck\space Stack}$$
 --->
@@ -31,6 +33,7 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 
 
 <!---| ${\color{#C6538C}Project\space Field}$ | ${\color{#C6538C}Tools\space I \space use\space}$ |--->
+| Project Fields | Tools I use |
 |:---------------:|:-------------:|
 | Web Devolment | <img src="./img/icon-figma.png" alt="figma"><img src="./img/icon-html5.png" alt="html5"/>  <img src="./img/icon-sass.png" alt="sass"/>  <img alt="nodejs" src="./img/icon-nodejs.png"/>  <img src="./img/icon-gulp.png" alt="gulp"/>  <img src="./img/icon-javascript.png" alt="javascript"/>|
 | Software Development | <img alt="cplusplus" src="./img/icon-cplusplus.png">  <img alt="python" src="./img/icon-python.png"> |
