@@ -8,7 +8,6 @@ ________      __    __           __                       ________
 ```
 <br/>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 # ${\color{#C6538C}Welcome \space to \space my \space repository \space (づ｡◕‿‿◕｡)づ}$
@@ -27,7 +26,6 @@ ________      __    __           __                       ________
 
 <br/>
 
-
 ## $${\color{#C6538C}Teck\space Stack}$$
 
 I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
@@ -43,14 +41,21 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 
   
 
-<!---
+
 <div align='center'>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
+
+
+
+
 
 </div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tekketsudev&theme=dracula&show_icons=true)<br/>
----->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
 ## ${\color{#C6538C}Can\space Find \space me \space here}$
 
 | $${\color{#C6538C}Platform}$$ | $${\color{#C6538C}Link}$$|
