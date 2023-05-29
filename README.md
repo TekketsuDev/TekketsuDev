@@ -6,7 +6,7 @@ ________      __    __           __                       ________
   |__| \___  >__|_ \__|_ \\___  >__| |____//____  >____/  /_______  /\___  >\_/  
            \/     \/    \/    \/                \/                \/     \/      
 ```
-<br/>
+
 
 
 
@@ -26,7 +26,7 @@ ________      __    __           __                       ________
 
 <br/>
 
-## $${\color{#C6538C}Teck\space Stack}$$
+ $${\color{#C6538C}Teck\space Stack}$$
 
 I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
 
