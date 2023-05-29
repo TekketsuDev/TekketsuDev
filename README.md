@@ -8,6 +8,7 @@ ________      __    __           __                       ________
 ```
 <br/>
 
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 # ${\color{#C6538C}Welcome \space to \space my \space repository \space (づ｡◕‿‿◕｡)づ}$
@@ -61,5 +62,4 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 | <img src="./img/icon-github.png"> | https://github.com/TekketsuDev |
 
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   
