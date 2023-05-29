@@ -9,8 +9,7 @@ ________      __    __           __                       ________
 <br/>
 
 
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
   
 
 # ${\color{#C6538C}Welcome \space to \space my \space repository \space (づ｡◕‿‿◕｡)づ}$
@@ -34,14 +33,15 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 
 | ${\color{#C6538C}Project\space Field}$ | ${\color{#C6538C}Tools\space I \space use\space}$ |
 |:---------------:|:-------------:|
-| Web Devolment   | <img src="./img/icon-figma.png" alt="figma"><img src="./img/icon-html5.png" alt="html5"/>  <img src="./img/icon-sass.png" alt="sass"/>  <img alt="nodejs" src="./img/icon-nodejs.png"/>  <img src="./img/icon-gulp.png" alt="gulp"/>  <img src="./img/icon-javascript.png" alt="javascript"/>|
-| Software Development |<img alt="cplusplus" src="./img/icon-cplusplus.png">  <img alt="python" src="./img/icon-python.png"> |
+| Web Devolment | <img src="./img/icon-figma.png" alt="figma"><img src="./img/icon-html5.png" alt="html5"/>  <img src="./img/icon-sass.png" alt="sass"/>  <img alt="nodejs" src="./img/icon-nodejs.png"/>  <img src="./img/icon-gulp.png" alt="gulp"/>  <img src="./img/icon-javascript.png" alt="javascript"/>|
+| Software Development | <img alt="cplusplus" src="./img/icon-cplusplus.png">  <img alt="python" src="./img/icon-python.png"> |
 | Cloud | <img src="./img/icon-azure.png"> |
 | Scripting | <img src="./img/icon-bash.png"> |
-|Videosgames|<img src="./img/icon-unity.png"/>|
-|General Use| <img alt="npm" src="./img/icon-npm.png">  <img alt="git" src="./img/icon-git.png">  <img alt="obsidian" src="./img/icon-obsidian.png">|
+| Videosgames |<img src="./img/icon-unity.png"> |
+| General Use | <img alt="npm" src="./img/icon-npm.png"> <img alt="git" src="./img/icon-git.png"> <img alt="obsidian" src="./img/icon-obsidian.png"> |
 
-
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!---
 <div align='center'>
