@@ -27,9 +27,9 @@ ________      __    __           __                       ________
 <br/>
 
  $${\color{#C6538C}Teck\space Stack}$$
---->
-I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
 
+I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
+--->
 | ${\color{#C6538C}Project\space Field}$ | ${\color{#C6538C}Tools\space I \space use\space}$ |
 |:---------------:|:-------------:|
 | Web Devolment | <img src="./img/icon-figma.png" alt="figma"><img src="./img/icon-html5.png" alt="html5"/>  <img src="./img/icon-sass.png" alt="sass"/>  <img alt="nodejs" src="./img/icon-nodejs.png"/>  <img src="./img/icon-gulp.png" alt="gulp"/>  <img src="./img/icon-javascript.png" alt="javascript"/>|
