@@ -7,11 +7,11 @@ ________      __    __           __                       ________
            \/     \/    \/    \/                \/                \/     \/      
 ```
 <br/>
-<!---
+
 
 
 # ${\color{#C6538C}Welcome \space to \space my \space repository \space (づ｡◕‿‿◕｡)づ}$
---->
+
 👾 - Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript.
 
 💻 - I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.
@@ -26,14 +26,10 @@ ________      __    __           __                       ________
 
 <br/>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  
-<!---
+
 ## $${\color{#C6538C}Teck\space Stack}$$
---->
+
 I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
-
-
 
 | ${\color{#C6538C}Project\space Field}$ | ${\color{#C6538C}Tools\space I \space use\space}$ |
 |:---------------:|:-------------:|
@@ -63,3 +59,7 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 | <img src="./img/icon-figma.png"> | https://www.figma.com/@TekketsuDev |
 | <img src="./img/icon-codepen.png"> | https://codepen.io/tekketsudev |
 | <img src="./img/icon-github.png"> | https://github.com/TekketsuDev |
+
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  
