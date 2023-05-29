@@ -38,8 +38,10 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 
 <br>
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)]
+<div align='center'>
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
+<div>
 <br>
 
 ## ${\color{#C6538C}Can\space Find \space me \space here}$
