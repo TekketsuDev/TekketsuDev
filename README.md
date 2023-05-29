@@ -41,7 +41,7 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 
   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 
-<div>
+</div>
 
 
 ## ${\color{#C6538C}Can\space Find \space me \space here}$
