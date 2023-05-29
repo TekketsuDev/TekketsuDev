@@ -42,12 +42,7 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
   
 
 
-<div align='center'>
-
-
-
-
-
+<div>
 </div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tekketsudev&theme=dracula&show_icons=true)<br/>
