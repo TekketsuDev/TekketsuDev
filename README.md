@@ -26,7 +26,7 @@ ________      __    __           __                       ________
 <br/>
 
  $${\color{#C6538C}Teck\space Stack}$$
-
+--->
 I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.
 
 
@@ -38,7 +38,7 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 | Scripting | <img src="./img/icon-bash.png"> |
 | Videosgames |<img src="./img/icon-unity.png"> |
 | General Use | <img alt="npm" src="./img/icon-npm.png"> <img alt="git" src="./img/icon-git.png"> <img alt="obsidian" src="./img/icon-obsidian.png"> |
---->
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tekketsudev&theme=dracula&show_icons=true)<br/>
 
