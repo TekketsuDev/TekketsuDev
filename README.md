@@ -42,12 +42,16 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 | Videosgames |<img src="./img/icon-unity.png"> |
 | General Use | <img alt="npm" src="./img/icon-npm.png"> <img alt="git" src="./img/icon-git.png"> <img alt="obsidian" src="./img/icon-obsidian.png"> |
 
-
+<!---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tekketsudev&theme=dracula&show_icons=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
-
+--->
+<div align='center'>
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+</div>
 
 ## ${\color{#C6538C}Can\space Find \space me \space here}$
 
