@@ -25,11 +25,19 @@ ________      __    __           __                       ________
 
 <br/>
 
+<div align='center'>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+</div>
+<br/>
+
 <h2> Teck Stack </h2>
 <!---
  $${\color{#C6538C}Teck\space Stack}$$
 --->
 I expent the last 3 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.<br/>
+
 
 
 <!---| ${\color{#C6538C}Project\space Field}$ | ${\color{#C6538C}Tools\space I \space use\space}$ |--->
@@ -47,11 +55,7 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 --->
-<div align='center'>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-</div>
 
 ## ${\color{#C6538C}Can\space Find \space me \space here}$
 
