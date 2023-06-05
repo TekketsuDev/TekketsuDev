@@ -8,27 +8,42 @@ ________      __    __           __                       ________
 ```
 
 <br/>
-
 <h1 align='center'> Welcome  to my repository (づ｡◕‿‿◕｡)づ </h1><br/>
+
+
+<table border="0">
+ <tr>
+    <td>
+      <span> 👾 - Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript.  </span>
+
+      <span> 💻 - I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.  </span>
+
+      <span> ⚙️ - My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, IA projects, Software Development ...  </span>
+
+      <span> 📄 - Please check out my <a href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link"> CV/Resume </a> for more information about my experience and skills.   </span>
+
+      <span> 🎨 - For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills.  </span>
+
+      <span> 💼 I'm always open to work whereas I can combine it with my Computer Science degree at UOC (Universitat Oberta de Catalunya Online) </span>
+   
+   </td>
+    <td>
+      
+      ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+      
+   </td>
+ </tr>
+</table>
+
+
 
 <div>
 <div align='left'>
-<span> 👾 - Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript.  </span>
 
-<span> 💻 - I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.  </span>
-
-<span> ⚙️ - My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, IA projects, Software Development ...  </span>
-
-<span> 📄 - Please check out my <a href="https://drive.google.com/file/d/1Gh4q_RSMQUjufm2Qrm-QesiBepiZ79rO/view?usp=share_link"> CV/Resume </a> for more information about my experience and skills.   </span>
-
-<span> 🎨 - For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills.  </span>
-
-<span> 💼 I'm always open to work whereas I can combine it with my Computer Science degree at UOC (Universitat Oberta de Catalunya Online) </span>
 </div>
 
 <div align='right'>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 </div>
  
