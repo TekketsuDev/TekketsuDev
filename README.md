@@ -12,7 +12,7 @@ ________      __    __           __                       ________
 <h1 align='center'> Welcome  to my repository (づ｡◕‿‿◕｡)づ </h1><br/>
 
 <div>
-<div align='right'>
+<div align='left'>
 <span> 👾 - Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript.  </span>
 
 <span> 💻 - I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.  </span>
@@ -26,7 +26,7 @@ ________      __    __           __                       ________
 <span> 💼 I'm always open to work whereas I can combine it with my Computer Science degree at UOC (Universitat Oberta de Catalunya Online) </span>
 </div>
 
-<div align='left'>
+<div align='right'>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
