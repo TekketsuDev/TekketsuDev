@@ -42,7 +42,7 @@ I expent the last 4 years working on developing my skillset as a developer. Afte
 | Software Development | <img alt="cplusplus" src="./img/icon-cplusplus.png">  <img alt="python" src="./img/icon-python.png"> |
 | Cloud | <img src="./img/icon-azure.png"> |
 | Scripting | <img src="./img/icon-bash.png"> |
-| Videosgames |<img src="./img/icon-unity.png"> |
+| Videogames |<img src="./img/icon-unity.png"> |
 | General Use | <img alt="npm" src="./img/icon-npm.png"> <img alt="git" src="./img/icon-git.png"> <img alt="obsidian" src="./img/icon-obsidian.png"> |
 
 <!---
