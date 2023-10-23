@@ -51,9 +51,9 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tekketsudev&theme=dracula&show_icons=true)
 --->
 
-
-## ${\color{#C6538C}Can\space Find \space me \space here}$
-
+<!---
+## ${\color{#C6538C} Can\space Find \space me \space here}$
+--->
 | $${\color{#C6538C}Platform}$$ | $${\color{#C6538C}Link}$$|
 | :-----------: | :-----------: |
 | <img src="./img/icon-portofolio.png"> | https://tekketsudev.com |
