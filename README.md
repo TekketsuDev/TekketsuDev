@@ -55,7 +55,8 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 ## ${\color{#C6538C} Can\space Find \space me \space here}$
 --->
 
-<h2>Can\space Find me here </h2>
+<h2>Can Find me here </h2>
+
 | Platform | Link |
 | :-----------: | :-----------: |
 | <img src="./img/icon-portofolio.png"> | https://tekketsudev.com |
