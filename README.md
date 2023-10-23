@@ -56,7 +56,7 @@ I expent the last 3 years working on developing my skillset as a developer. Afte
 --->
 
 <h2>Can\space Find me here </h2>
-| $${\color{#C6538C}Platform}$$ | $${\color{#C6538C}Link}$$|
+| Platform} | Link|
 | :-----------: | :-----------: |
 | <img src="./img/icon-portofolio.png"> | https://tekketsudev.com |
 | <img src="./img/icon-linkedin.png"> | https://linkedin.com/in/víctor-jamet-soler |
