@@ -7,7 +7,6 @@ ________      __    __           __                       ________
            \/     \/    \/    \/                \/                \/     \/      
 ```
 
-<h1 align='center'> Welcome  to my repository (づ｡◕‿‿◕｡)づ </h1><br/>
 
 👾 - Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript.  </span>
 
