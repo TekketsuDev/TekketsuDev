@@ -8,17 +8,11 @@ ________      __    __           __                       ________
 ```
 
 
-👾 - Hi there! I'm am Victor Jamet a junior self-taught web Developer focus on HTML, CSS and Javascript.  </span>
+👾 - Hi there! I'm am Victor Jamet a  self-taught developer.  </span>
 
-💻 - I'm currently working on a web Portofolio with HTML/SCSS and Vanilla Javascript expandanding my knowledge of the basis to work with more advanced Frameworks and Libraries in the future.  </span>
+💻 - I'm currently learning C and improving my knowledge in Networking and Cybersecurity fields </span>
 
-⚙️ - My technical skillset includes HTML/CSS, Javascript, C++, Bash, Figma and more, and I'm passionate about using these tools to create unique User Interfaces, IA projects, Software Development ...  </span>
-
-📄 - Please check out my <a href="https://drive.google.com/file/d/1038msAq90hJXYGP5mPrX7qdL9MMC-H7x/view?usp=share_link"> CV/Resume </a> for more information about my experience and skills.   </span>
-
- 🎨 - For me creating webpages requieres some level of artistic and comprehensive skill to implement the UI ideas. So that's why I put the effort on learning and improving my layout ideas to keep up to date with my coding skills. 
-
-💼 I'm always open to work whereas I can combine it with my Computer Science degree at UOC (Universitat Oberta de Catalunya Online)
+⚙️ - I'm  about using these tools to create unique User Interfaces, IA projects, Software Development </span>
   
 <div align='center'>
 
@@ -30,20 +24,14 @@ ________      __    __           __                       ________
 <!---
  $${\color{#C6538C}Teck\space Stack}$$
 --->
-I expent the last 4 years working on developing my skillset as a developer. After trying lots of configurations API's, programming languages I bluid a decent Teck Stack to work with.<br/>
-
-
 
 <!---| ${\color{#C6538C}Project\space Field}$ | ${\color{#C6538C}Tools\space I \space use\space}$ |--->
 | Project Fields | Tools I use |
 |:---------------:|:-------------:|
-| Web Devolment | <img src="./img/icon-figma.png" alt="figma"><img src="./img/icon-html5.png" alt="html5"/>  <img src="./img/icon-sass.png" alt="sass"/>  <img alt="nodejs" src="./img/icon-nodejs.png"/>  <img src="./img/icon-gulp.png" alt="gulp"/>  <img src="./img/icon-javascript.png" alt="javascript"/>|
-| Software Development | <img alt="cplusplus" src="./img/icon-cplusplus.png">  <img alt="python" src="./img/icon-python.png"> |
-| Cloud | <img src="./img/icon-azure.png"> |
+| Software Development | <img alt="cplusplus" src="./img/icon-cplusplus.png"> | 
 | Scripting | <img src="./img/icon-bash.png"> |
 | Videogames |<img src="./img/icon-unity.png"> |
-| General Use | <img alt="npm" src="./img/icon-npm.png"> <img alt="git" src="./img/icon-git.png"> <img alt="obsidian" src="./img/icon-obsidian.png"> |
-
+| Cloud | <img src="./img/icon-azure.png"> |
 <!---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tekketsudev&theme=dracula&show_icons=true)<br/>
 
@@ -54,15 +42,9 @@ I expent the last 4 years working on developing my skillset as a developer. Afte
 ## ${\color{#C6538C} Can\space Find \space me \space here}$
 --->
 
-<h2>Can Find me here </h2>
-
 | Platform | Link |
 | :-----------: | :-----------: |
-| <img src="./img/icon-portofolio.png"> | https://tekketsudev.com |
 | <img src="./img/icon-linkedin.png"> | https://linkedin.com/in/víctor-jamet-soler |
-| <img src="./img/icon-figma.png"> | https://www.figma.com/@TekketsuDev |
-| <img src="./img/icon-codepen.png"> | https://codepen.io/tekketsudev |
-| <img src="./img/icon-github.png"> | https://github.com/TekketsuDev |
 
 
   
