@@ -26,7 +26,7 @@ ________      __    __           __                       ________
 --->
 
 <!---| ${\color{#C6538C}Project\space Field}$ | ${\color{#C6538C}Tools\space I \space use\space}$ |--->
-| Project Fields | Tools I use |
+<!---| Project Fields | Tools I use |
 |:---------------:|:-------------:|
 | Software Development | <img alt="cplusplus" src="./img/icon-cplusplus.png"> | 
 | Scripting | <img src="./img/icon-bash.png"> |
