@@ -19,7 +19,7 @@ ________      __    __           __                       ________
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
 </div>
-
+<!---
 <h2> Teck Stack </h2>
 <!---
  $${\color{#C6538C}Teck\space Stack}$$
