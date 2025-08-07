@@ -41,7 +41,3 @@ ________      __    __           __                       ________
 <!---
 ## ${\color{#C6538C} Can\space Find \space me \space here}$
 --->
-
-<img src="./img/icon-linkedin.png"> https://linkedin.com/in/víctor-jamet-soler 
-
-  
