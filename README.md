@@ -16,14 +16,8 @@ ________      __    __           __                       ________
   
 <div align='center'>
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&layout=compact&theme=dracula&hide_border=false&cache_seconds=20&v=3)
 
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&layout=compact&theme=dracula&hide_border=false&cache_seconds=3600&v=3)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&layout=compact&v=2)
 
 </div>
 <!---
