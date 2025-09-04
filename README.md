@@ -20,7 +20,8 @@ ________      __    __           __                       ________
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](…/api/top-langs/?username=TekketsuDev&layout=compact&theme=dracula&hide_border=false&cache_seconds=3600&v=3
+)
 </div>
 <!---
 <h2> Teck Stack </h2>
