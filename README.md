@@ -16,13 +16,7 @@ ________      __    __           __                       ________
   
 <div align='center'>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&layout=compact&theme=dracula&hide_border=false&cache_seconds=20&v=3)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&layout=compact&hide_border=false&v=3&hide=html,lua,scss,css,python&langs_count=5)
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&theme=dracula&hide_border=false&v=3&hide=html,lua,scss,css,python&langs_count=5)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TekketsuDev&&layout=compact&theme=dracula&hide_border=false&hide=html,scss,css,python&langs_count=5)
 </div>
 <!---
 <h2> Teck Stack </h2>
